@@ -309,7 +309,7 @@ System Response:
 ## 📞 Support and Contact
 
 For technical questions or system issues:
-- **Primary Contact**: [Your Email]
+- **Primary Contact**: hiring@data-hat.com
 - **Repository Access**: saksham@data-hat.com
 - **Documentation**: This README and inline code comments
 
