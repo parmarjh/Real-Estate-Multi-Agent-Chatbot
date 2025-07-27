@@ -246,13 +246,13 @@ User Input: "I found these stains on my ceiling after the storm" + uploads image
 System Response:
 ┌─────────────────────────────────────────────────────────────┐
 │ 🔍 Issue Assessment: Water staining with potential mold     │
-│ ⚠️ Severity: HIGH - Active water intrusion detected        │
+│ ⚠️ Severity: HIGH - Active water intrusion detected         │
 │ 🔧 Immediate Steps:                                         │
-│    • Document with additional photos                       │
-│    • Place buckets to catch drips                         │
-│    • Contact property manager immediately                  │
-│ 👨‍🔧 Professional Help: Roofer within 24-48 hours          │
-│ ❓ Need to Know: Is this an ongoing leak or storm-related? │
+│    • Document with additional photos                        │
+│    • Place buckets to catch drips                           │
+│    • Contact property manager immediately                   │
+│ 👨‍🔧 Professional Help: Roofer within 24-48 hours             │
+│ ❓ Need to Know: Is this an ongoing leak or storm-related?  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -264,16 +264,16 @@ User Input: "My landlord wants to raise rent 30% mid-lease in California"
 System Response:
 ┌─────────────────────────────────────────────────────────────┐
 │ ⚖️ Legal Overview: Mid-lease rent increases generally       │
-│    prohibited without specific lease clauses               │
-│ 📍 Location Notes: California Civil Code 1946 & 1947.12   │
-│    limits increases and requires proper notice             │
-│ 📋 Action Steps:                                           │
-│    • Review lease agreement for escalation clauses        │
-│    • Document all communications                           │
-│    • Contact local tenant rights organization             │
-│ 🏛️ Official Resources: California Department of Consumer  │
-│    Affairs, Local Rent Control Board                      │
-│ 💡 Pro Tips: Keep all rent payment records organized      │
+│    prohibited without specific lease clauses                │
+│ 📍 Location Notes: California Civil Code 1946 & 1947.12     │
+│    limits increases and requires proper notice              │
+│ 📋 Action Steps:                                            │
+│    • Review lease agreement for escalation clauses          │
+│    • Document all communications                            │
+│    • Contact local tenant rights organization               │
+│ 🏛️ Official Resources: California Department of Consumer    │
+│    Affairs, Local Rent Control Board                        │
+│ 💡 Pro Tips: Keep all rent payment records organized        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
